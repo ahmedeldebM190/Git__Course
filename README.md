@@ -1,2 +1,2 @@
 # Git__Course
-For Eldeeb school Git__Course
+For Eldeeb Web school Git__Course
